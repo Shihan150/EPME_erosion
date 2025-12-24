@@ -152,7 +152,7 @@ python d13c_mc_run_sclim.py 1000 4
 mv d13c_sens_test_sclim_4 ./mcmc_forward_results/
 ```
 
-5.	Plot results
+5.	Plot results  
 	•	Open Fig_plot_v2.ipynb   
 	•	Set: exp_name = 'd13c_sens_test_sclim_4'   
 	•	Run all cells to generate figures and data tables.  
