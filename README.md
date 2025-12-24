@@ -25,7 +25,7 @@ Texas A&M University
 
 
 ## Proxy data compilation
-The file ***petm_steady.dat*** contains a compilation of proxy datasets across the EPME, including:
+The file ***S1_Early_PTB.xlsx*** contains a compilation of proxy datasets across the EPME, including:
 * carbonate δ13C
 * conodont δ18O
 * pCO2  estimates
