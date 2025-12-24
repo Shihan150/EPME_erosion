@@ -13,7 +13,6 @@ Shihan Li — shihan@tamu.edu
 Texas A&M University
 
 
-⸻
 
 ## Repository Structure
 ```
