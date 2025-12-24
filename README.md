@@ -16,12 +16,12 @@ Texas A&M University
 ⸻
 
 ## Repository Structure
-
+'''
 ├── S1_Early_PTB.xlsx              # Proxy data compilation
 ├── hprc_job_code/                # Scripts for running MCMC jobs on HPC
 ├── mcmc_results_analysis/        # Post-processing and forward modeling
 ├── README.md
-
+'''
 
 
 ## Proxy data compilation
