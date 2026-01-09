@@ -140,7 +140,9 @@ To reproduce the baseline case (`exp_name = d13c_sens_test_sclim_4`):
 
 1. **Submit job on HPRC**
 
-hprc_job_code/1_2_sclim/
+hprc_job_code/1_2_sclim/  
+
+On the Texas A&M High Performance Research Computing (HPRC) ACES cluster, a typical baseline inversion experiment (48 walkers, 8000 steps) requires approximately 4 hours of wall-clock time.
 
 2. **Download outputs** and place into:
 
@@ -155,8 +157,15 @@ Files:
 cd mcmc_results_analysis
 python d13c_mc_run_sclim.py 1000 4
 ```
+On a local laptop with the following specifications:
+	•	Model: MacBook Pro (14-inch, Nov 2024)
+	•	Chip: Apple M4 Pro
+	•	Memory: 48 GB
+	•	Operating system: macOS Tahoe 26.2
 
-4.	Move forward results
+this post-processing step takes approximately ~2 minutes of wall-clock time.
+
+4.	**Move forward results**
 ```bash
 mv d13c_sens_test_sclim_4 ./mcmc_forward_results/
 ```
