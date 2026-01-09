@@ -12,7 +12,16 @@ For questions or issues, please contact:
 Shihan Li — shihan@tamu.edu
 Texas A&M University
 
+## Environment 
+Please first follow the installation tutorial for the iLOSCAR model:  
+https://github.com/Shihan150/iloscar?tab=readme-ov-file#install
 
+After installing iLOSCAR, install the MCMC sampler **emcee** using pip:
+
+```bash
+pip install emcee
+```
+The installation typically takes approximately 1-5 minutes.
 
 ## Repository Structure
 ```
