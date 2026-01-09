@@ -157,11 +157,11 @@ Files:
 cd mcmc_results_analysis
 python d13c_mc_run_sclim.py 1000 4
 ```
-On a local laptop with the following specifications:
-	•	Model: MacBook Pro (14-inch, Nov 2024)
-	•	Chip: Apple M4 Pro
-	•	Memory: 48 GB
-	•	Operating system: macOS Tahoe 26.2
+On a local laptop with the following specifications:  
+	•	Model: MacBook Pro (14-inch, Nov 2024)  
+	•	Chip: Apple M4 Pro   
+	•	Memory: 48 GB    
+	•	Operating system: macOS Tahoe 26.2  
 
 this post-processing step takes approximately ~2 minutes of wall-clock time.
 
