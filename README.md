@@ -4,7 +4,7 @@ This repository contains scripts, proxy compilations, and MCMC inversion workflo
 ## Citation
 
 If you use this repository, please cite:
-Li et al. (2025), Erosion-driven delayed warming and environmental change across the End-Permian mass extinction, in revision.
+Li et al. (2026), Erosion-driven delayed warming and environmental change across the End-Permian mass extinction, accept, Nature Communications.
 
 ## Contact
 
